@@ -6,7 +6,7 @@ Banco de dados criado por Cayo Luiz, Matheus Ferreira e Victor Sette
 
 Passo a passo para que consiga executar os Códigos corretamente
 
-1 - SHEMA
+1 - SCHEMA
 2- ALTER
 3 - INSERT
 4 - SELETEC
